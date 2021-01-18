@@ -56,9 +56,6 @@
 }
 
 .toolbar {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
   padding: 0rem 4rem !important;
 }
 
@@ -70,5 +67,9 @@
 @media only screen and (max-width: 768px) {
   .App {
     padding: 0;
+    padding-top: 80px;
+  }
+  .toolbar {
+    padding: 1rem 1rem !important;
   }
 }

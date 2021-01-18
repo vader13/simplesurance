@@ -20,3 +20,4 @@ React, Material UI were used to build this app
  - added a separtate page for each company with more information, logo and description 
  - added a filter by category option 
  - improved on the design
+ - added pagination
